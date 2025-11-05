@@ -5,19 +5,19 @@
   "platforms": {
     "darwin-x86_64": {
       "signature": "RURwe4mZO7WOz7lPfh2AF9rqIdQOxzXueO6KayCUqx3EdmWUv86xHUTAag4p9Mh51yNwGyiNp3U3ur8Bwrcn0Uemq5/lHFLK4Aw=",
-      "url": "https://release.xbe.sh/release/v2.0.2/mac/universal/xbesh-2.0.2-universal.dmg"
+      "url": "https://release.xbesh.com/release/v2.0.2/mac/universal/xbesh-2.0.2-universal.dmg"
     },
     "darwin-aarch64": {
       "signature": "RURwe4mZO7WOz7lPfh2AF9rqIdQOxzXueO6KayCUqx3EdmWUv86xHUTAag4p9Mh51yNwGyiNp3U3ur8Bwrcn0Uemq5/lHFLK4Aw=",
-      "url": "https://release.xbe.sh/release/v2.0.2/mac/universal/xbesh-2.0.2-universal.dmg"
+      "url": "https://release.xbesh.com/release/v2.0.2/mac/universal/xbesh-2.0.2-universal.dmg"
     },
     "windows-x86_64": {
       "signature": "RURwe4mZO7WOz7lPfh2AF9rqIdQOxzXueO6KayCUqx3EdmWUv86xHUTAag4p9Mh51yNwGyiNp3U3ur8Bwrcn0Uemq5/lHFLK4Aw=",
-      "url": "https://release.xbe.sh/release/v2.0.2/windows/msi/xbesh_2.0.2_x64_en-US.msi"
+      "url": "https://release.xbesh.com/release/v2.0.2/windows/msi/xbesh_2.0.2_x64_en-US.msi"
     },
     "linux-x86_64": {
       "signature": "RURwe4mZO7WOz7lPfh2AF9rqIdQOxzXueO6KayCUqx3EdmWUv86xHUTAag4p9Mh51yNwGyiNp3U3ur8Bwrcn0Uemq5/lHFLK4Aw=",
-      "url": "https://release.xbe.sh/release/v2.0.1/linux/xbesh_2.0.1_amd64.AppImage"
+      "url": "https://release.xbesh.com/release/v2.0.1/linux/xbesh_2.0.1_amd64.AppImage"
     }
   }
 }
