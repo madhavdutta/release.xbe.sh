@@ -1,5 +1,5 @@
 {
-  "version": "2.0.2",
+  "version": "2.0.5",
   "notes": "Bug fixes and performance improvements\n\n- Fixed Gemini AI token limits (8000 tokens for complete projects)\n- Fixed terminal PATH environment for npm/pnpm commands\n- Auto-update with automatic restart implemented\n- Improved AI project generation quality\n- Enhanced error handling and user feedback\n- UI/UX improvements across all platforms",
   "pub_date": "2025-01-10T10:00:00Z",
   "platforms": {
@@ -9,7 +9,7 @@
     },
     "darwin-aarch64": {
       "signature": "RURwe4mZO7WOz7lPfh2AF9rqIdQOxzXueO6KayCUqx3EdmWUv86xHUTAag4p9Mh51yNwGyiNp3U3ur8Bwrcn0Uemq5/lHFLK4Aw=",
-      "url": "https://release.xbesh.com/release/v2.0.5/mac/silicon/xbesh-2.0.5-arm64.dmg"
+      "url": "https://release.xbesh.com/release/v2.0.5/mac/silicon/xBesh-2.0.5-arm64.dmg"
     },
     "windows-x86_64": {
       "signature": "RURwe4mZO7WOz7lPfh2AF9rqIdQOxzXueO6KayCUqx3EdmWUv86xHUTAag4p9Mh51yNwGyiNp3U3ur8Bwrcn0Uemq5/lHFLK4Aw=",
