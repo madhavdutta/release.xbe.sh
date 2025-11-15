@@ -1,19 +1,23 @@
 {
-  "version": "2.0.5",
+  "version": "2.0.6",
   "notes": "Bug fixes and performance improvements\n\n- Fixed Gemini AI token limits (8000 tokens for complete projects)\n- Fixed terminal PATH environment for npm/pnpm commands\n- Auto-update with automatic restart implemented\n- Improved AI project generation quality\n- Enhanced error handling and user feedback\n- UI/UX improvements across all platforms",
-  "pub_date": "2025-01-10T10:00:00Z",
+  "pub_date": "2025-15-11T10:00:00Z",
   "platforms": {
     "darwin-x86_64": {
       "signature": "RURwe4mZO7WOz7lPfh2AF9rqIdQOxzXueO6KayCUqx3EdmWUv86xHUTAag4p9Mh51yNwGyiNp3U3ur8Bwrcn0Uemq5/lHFLK4Aw=",
-      "url": "https://release.xbesh.com/release/v2.0.5/mac/intel/xBesh-2.0.5.dmg"
+      "url": "https://release.xbesh.com/release/v2.0.6/mac/intel/xBesh-2.0.6-x64.dmg"
     },
     "darwin-aarch64": {
       "signature": "RURwe4mZO7WOz7lPfh2AF9rqIdQOxzXueO6KayCUqx3EdmWUv86xHUTAag4p9Mh51yNwGyiNp3U3ur8Bwrcn0Uemq5/lHFLK4Aw=",
-      "url": "https://release.xbesh.com/release/v2.0.5/mac/silicon/xBesh-2.0.5-arm64.dmg"
+      "url": "https://release.xbesh.com/release/v2.0.6/mac/silicon/xBesh-2.0.6-arm64.dmg"
     },
     "windows-x86_64": {
       "signature": "RURwe4mZO7WOz7lPfh2AF9rqIdQOxzXueO6KayCUqx3EdmWUv86xHUTAag4p9Mh51yNwGyiNp3U3ur8Bwrcn0Uemq5/lHFLK4Aw=",
-      "url": "https://release.xbesh.com/release/v2.0.5/windows/msi/xbesh-ai-2.0.5-win-x64-setup.exe"
+      "url": "https://release.xbesh.com/release/v2.0.6/windows/msi/win-x64/xbesh-ai-2.0.6-win-x64.msi"
+    },
+    "windows_32": {
+      "signature": "RURwe4mZO7WOz7lPfh2AF9rqIdQOxzXueO6KayCUqx3EdmWUv86xHUTAag4p9Mh51yNwGyiNp3U3ur8Bwrcn0Uemq5/lHFLK4Aw=",
+      "url": "https://release.xbesh.com/release/v2.0.6/windows/msi/win-32/xbesh-ai-2.0.6-win-ia32.msi"
     },
     "linux-x86_64": {
       "signature": "RURwe4mZO7WOz7lPfh2AF9rqIdQOxzXueO6KayCUqx3EdmWUv86xHUTAag4p9Mh51yNwGyiNp3U3ur8Bwrcn0Uemq5/lHFLK4Aw=",
